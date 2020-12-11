@@ -92,7 +92,7 @@ div#preload {
     
     width: 300px;
     height: 350px;
-    background: #ffb606;
+    background: #690909;
     overflow: hidden;
 }
 .card .imgBx,
@@ -106,7 +106,7 @@ div#preload {
 .card .imgBx {
     top: 40%;
     position: absolute;
-    color:black;
+    color:white;
     font-weight:900;
     font-size:2rem;
     text-align:center;
@@ -140,6 +140,7 @@ div#preload {
     margin: 20px 0 0;
     color: #fff;
 }
+.numbering h1{font-size:20rem;text-align:center;color:#8b0f0f;}
 h2 {font: 16px sans-serif;margin-top: 10px;text-align: center;text-transform: uppercase;}
 h2.background {position: relative;z-index: 1;}
 h2.background:before {border-top: 1px solid black;content: "";margin: 0 auto;position: absolute;top: 50%;left: 0;right: 0;bottom: 0;width: 100%;z-index: -1;}
