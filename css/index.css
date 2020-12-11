@@ -1,4 +1,6 @@
 body{font-family: 'Quicksand', sans-serif;background-color:;}
+@media(max-width:840px){
+    .d-inline{display:hidden}}
 /* Preloader css */
 div#preload {
     margin: auto;
