@@ -133,11 +133,11 @@ div#preload {
     left: 0%;
 }
 .card .details h2 {
-    color: #fff;
+    color: #ffb606;
     text-align: center;
     margin: 0;
     padding: 0 0 10px;
-    border-bottom: 2px solid #fff;
+    border-bottom: 1px solid #ffb606;
     
 }
 .card .details p {
