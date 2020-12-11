@@ -105,15 +105,15 @@ div#preload {
     height: 100%;
     position: absolute;
     box-sizing: border-box;
-    transition: .5s;
+    transition: .50s;
 }
 .card .imgBx {
     top: 40%;
     position: absolute;
-    color:white;
+    color:#ffb606;
     font-weight:900;
     font-size:1rem;
-    text-align:center;
+    text-align:justify;
 }
 .card:hover .imgBx {
     top: 0;
