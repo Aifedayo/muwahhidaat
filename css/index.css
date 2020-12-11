@@ -3,7 +3,8 @@ body{font-family: 'Quicksand', sans-serif;}
 .navbar{box-shadow:-2px 18px 30px 15px rgba(0,0,0,0.2);}
         
 @media(max-width:840px){
-    .first{display:none}}
+    .first{display:none}
+    .navbar-collapse{height:100vh;margin:0 auto;display:inline-block;padding:2rem;margin-top:4rem;}.nav-item{padding:6px;margin:0 auto;}}
 /* Preloader css */
 div#preload {
     margin: auto;
