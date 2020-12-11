@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
 body{font-family: 'Quicksand', sans-serif;background-color:;}
+
 @media(max-width:840px){
     .d-inline{display:hidden}}
 /* Preloader css */
@@ -140,7 +142,7 @@ div#preload {
     margin: 20px 0 0;
     color: #fff;
 }
-.numbering h1{font-size:20rem;text-align:center;color:#8b0f0f;}
+.numbering h1{font-size:20rem;text-align:center;color:#8b0f0f;font-family:  'Raleway', sans-serif;}
 h2 {font: 16px sans-serif;margin-top: 10px;text-align: center;text-transform: uppercase;}
 h2.background {position: relative;z-index: 1;}
 h2.background:before {border-top: 1px solid black;content: "";margin: 0 auto;position: absolute;top: 50%;left: 0;right: 0;bottom: 0;width: 100%;z-index: -1;}
